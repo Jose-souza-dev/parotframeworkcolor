@@ -8,6 +8,7 @@ body{
     padding: 0;
     font-family:'parrot', Arial, Helvetica, sans-serif;
     color: #004B23;
+    background-color: #f5ffe2;
 }
 
 div.container{
@@ -71,6 +72,7 @@ li{
 }
 
 a{ text-decoration: none;font-family: Arial, Helvetica, sans-serif; color: #007200;}
+a:hover{ text-decoration: none;font-family: Arial, Helvetica, sans-serif; text-decoration: underline;}
 .parrot{font-size: 50px;}
 p{text-align: justify; margin-top: 10px; font-family: 'parrot'; color: #666}
 span{color:#068; text-decoration: underline;}
