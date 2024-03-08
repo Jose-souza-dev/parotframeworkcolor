@@ -53,8 +53,8 @@ div#papagaio{
 }
 
 img#logo{
-    width: 40%;
-    margin: 40px auto 20px auto; 
+    width: 20%;
+    margin: 80px auto 20px auto; 
     align-items: center;
 }
 section{
@@ -74,7 +74,7 @@ li{
 a{ text-decoration: none;font-family: Arial, Helvetica, sans-serif; color: #007200;}
 a:hover{ text-decoration: none;font-family: Arial, Helvetica, sans-serif; text-decoration: underline;}
 .parrot{font-size: 50px;}
-p{text-align: justify; margin-top: 10px; font-family: 'parrot'; color: #666}
+p{text-align: center; margin-top: 10px; font-family: 'Arial'; color: #383838; font-size: 16px;}
 span{color:#068; text-decoration: underline;}
 h1,h2,h3,h4,h5,h6{ color: #069;}
 
